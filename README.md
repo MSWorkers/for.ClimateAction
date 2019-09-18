@@ -25,9 +25,9 @@ Big Oil should not have the luxury of choosing the most convenient and profitabl
 
 We stand with the [Amazon](https://medium.com/@amazonemployeesclimatejustice/amazon-employees-are-joining-the-global-climate-walkout-9-20-9bfa4cbb1ce3
 ) and [Google](https://medium.com/@googworkersac/google-workers-are-striking-for-climate-sept-20-7eba2100b621) by supporting their demands: 
-Zero emissions by 2030. 
-Zero contracts for fossil fuel companies to accelerate oil and gas extraction. 
-Zero funding for climate denying lobbyists and politicians.
+- Zero emissions by 2030. 
+- Zero contracts for fossil fuel companies to accelerate oil and gas extraction. 
+- Zero funding for climate denying lobbyists and politicians.
 
 We call on to Microsoft Employees to sign our [pledge](https://aka.ms/climateactionpledge) and join us on September 20th to demand the change we wish to see. 
 
