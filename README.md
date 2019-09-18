@@ -17,7 +17,7 @@ As Microsoft workers, we've been made complicit.
 
 The Global Climate Strike is an opportunity for Microsoft to set an example as a leader in the tech industry. The company has taken many initiatives that focus on individual contributions, such as educating employees on composting, reducing waste, and making our [campus carbon neutral](https://blogs.microsoft.com/on-the-issues/2017/07/14/creating-carbon-free-headquarters-puget-sound-region/ ). There are also efforts to leverage artificial intelligence to solve specific and important climate-related problems. However, given the urgency and complexity of the crisis, these actions are not enough.
 
-If we want to make real impact, all of us need to mobilize, work together, and demand a fundamental change of Microsoft's priorities. It's clear that the tech industry is one of the main culprits behind our burning planet, both in consuming a great deal of fossil fuels (via power hungry datacenters) and supporting fossil fuel companies. But we also have to recognize that we're equipped with so many resources that we can leverage to steer our industry and government in the right direction. 
+If we want to make real impact, all of us need to mobilize, work together, and demand a fundamental change in Microsoft's priorities. It's clear that the tech industry is one of the main culprits behind our burning planet, both in consuming a great deal of fossil fuels through power hungry datacenters and supporting Big Oil companies. But we also have to recognize that we're equipped with so many resources that we can leverage to steer our industry and government in the right direction. 
 
 Following our mission to "Empower every person and every organization in the planet to achieve more", it is essential that we secure a planet with livable conditions for *everyone*. This includes victims of [disaster displacement](https://weather.com/forecast-change/news/2019-06-04-how-the-middle-east-drought-and-flood-cycle-will-probably-lead-to ) and Black and Brown communities who are [disproportionately affected](https://www.ebony.com/news/environmental-justice-begins-with-understanding-how-climate-change-impacts-african-american-communities/) by climate change.
 
@@ -29,6 +29,6 @@ Zero emissions by 2030.
 Zero contracts for fossil fuel companies to accelerate oil and gas extraction. 
 Zero funding for climate denying lobbyists and politicians.
 
-We call on to Microsoft Employees to sign our [pledge](https://aka.ms/climateactionpledge) and join us on this day to demand the change we wish to see. 
+We call on to Microsoft Employees to sign our [pledge](https://aka.ms/climateactionpledge) and join us on September 20th to demand the change we wish to see. 
 
 Signed, Microsoft Employees
